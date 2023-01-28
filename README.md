@@ -2,7 +2,7 @@
 El proyecto es una parte corta del core completo que hice para ing web.
 Este proyecto cuenta con un reto facil, el cual es validar si un ponente ya tiene una hoar escogida, si es asi, otro ponente no podra elegir la misma hora.
 
--OCUMENTACION UTIL PARA EL CONOCIMIENTO DE PHP 
+-DOCUMENTACION UTIL PARA EL CONOCIMIENTO DE PHP 
 https://symfony.com/bundles/EasyAdminBundle/current/crud.html
 
 DESCARGAR PHP DESDE LA PAGINA OFFICIAL (QUE SEA LA VERSION 8.0 PARA ESTABBILIDAD SI SE DESCARGA LA VERSION 8.2 O 8.1 TIRA ERRORES DE SITAXIS SIN EMBARGO EL PROYECTO
