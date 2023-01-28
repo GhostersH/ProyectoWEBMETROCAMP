@@ -34,7 +34,6 @@ UNA VEZ DESCARGADO EL PHP E INCORPORADO DENTRO DE LA MAQUINA (RECOMIENDO COLOCAR
 
 ************************************************
 
-El proyecto cuenta con APIs personalizadas de pago, NO CARGAR NINGUN PAGO NO HAY DEVOLUCIONES DE TESTEO SI NO CONOCES EL DASHBOARD DEE PAYPAL.
 
 *************************************************
 RECOMENDACION NO USAR XAMPP
