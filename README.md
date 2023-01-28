@@ -1,6 +1,6 @@
 ﻿# ProyectoWEBMETROCAMP
 El proyecto es una parte corta del core completo que hice para ing web.
-Este proyecto cuenta con un reto facil, el cual es validar si un ponente ya tiene una hoar escogida, si es asi, otro ponente no podra elegir la misma hora.
+Este proyecto cuenta con un reto facil, el cual es validar si un ponente ya tiene una hora escogida, si es asi, otro ponente no podra elegir la misma hora.
 
 -DOCUMENTACION UTIL PARA EL CONOCIMIENTO DE PHP 
 https://symfony.com/bundles/EasyAdminBundle/current/crud.html
